@@ -23,7 +23,7 @@ export default function Image() {
     });
   }, []);
 
-  const url: string = `https://api.nasa.gov/planetary/apod?api_key=${
+  const url: string = `https://api.nasa.gov/planetary/apod?date=2024-06-06&api_key=${
     import.meta.env.VITE_API_KEY
   }`;
   return (
