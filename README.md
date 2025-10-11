@@ -4,6 +4,13 @@ A simple web app built with **React**, **TypeScript**, and **Tailwind CSS** that
 Each day, you’ll see a new image (or video) from NASA’s API, along with its title, description, author and date.
 
 ---
+## 📷 Screenshots
+
+![Stellar](https://github.com/user-attachments/assets/87a70ef8-64d9-4f60-969b-cacd44db38c3)
+
+![Stellar](https://github.com/user-attachments/assets/253167ca-2db3-43cd-a9cd-938feb15b6a8)
+
+---
 
 ## 🌌 Demo
 
