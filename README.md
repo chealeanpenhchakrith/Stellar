@@ -7,7 +7,7 @@ Each day, you’ll see a new image (or video) from NASA’s API, along with its 
 
 ## 🌌 Demo
 
-> 🖼️ Add your live demo link here (e.g., [Demo on Vercel](https://your-app.vercel.app))
+> [Stellar](https://stellar-81vc.vercel.app/)
 
 ---
 
@@ -39,7 +39,7 @@ Follow these steps to run the project locally:
 git clone https://github.com/yourusername/Stellar.git
 
 # 2️⃣ Navigate to the project directory
-cd nasa-apod-viewer
+cd Stellar
 
 # 3️⃣ Install dependencies
 npm install
