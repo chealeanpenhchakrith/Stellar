@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <>
-      <h1>Hello World</h1>
+      <div className="bg-[url('../src/assets/ImageBackground.png')] bg-cover bg-center h-screen"></div>
     </>
   );
 }
