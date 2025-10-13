@@ -23,6 +23,7 @@ export default function Image() {
         url: response.data.url,
         title: response.data.title,
       });
+      console.log(response.data);
     });
   }, []);
 
@@ -47,8 +48,18 @@ export default function Image() {
             {image.explanation}
           </h1>
           <div className="flex flex-col w-175 gap-2">
-            <h1 className="text-[#7083A3]">Copyright : {image.copyright}</h1>
-            <h1 className="text-[#7083A3]">Date : 2025{image.date}</h1>
+            {image.copyright ? (
+              <div>
+                <h1 className="text-[#7083A3]">
+                  Copyright : {image.copyright}
+                </h1>
+                <h1 className="text-[#7083A3]">Date : 2025{image.date}</h1>
+              </div>
+            ) : (
+              <div>
+                <h1 className="text-[#7083A3]">Date : 2025{image.date}</h1>
+              </div>
+            )}
           </div>
         </div>
       </div>
