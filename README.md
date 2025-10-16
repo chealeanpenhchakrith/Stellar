@@ -12,12 +12,6 @@ Each day, you’ll see a new image (or video) from NASA’s API, along with its 
 
 ---
 
-## 🌌 Demo
-
-> [Stellar](https://stellar-81vc.vercel.app/)
-
----
-
 ## ✨ Features
 
 - Fetches APOD data from NASA’s official API  
