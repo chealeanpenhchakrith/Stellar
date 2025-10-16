@@ -1,6 +1,8 @@
 # 🚀 NASA APOD Viewer
 
-A simple web app built with **React**, **TypeScript**, and **Tailwind CSS** that fetches and displays NASA’s *Astronomy Picture of the Day (APOD)*.  
+* ⚠️ Due to the lapse in federal government funding, NASA is no longer updating this API, stopped working since 01/10/2025 ⚠️ 
+
+A simple web app built with **React**, **TypeScript**, and **Tailwind CSS** that fetches and displays NASA’s *Astronomy Picture of the Day (APOD)*. 
 Each day, you’ll see a new image (or video) from NASA’s API, along with its title, description, author and date.
 
 ---
